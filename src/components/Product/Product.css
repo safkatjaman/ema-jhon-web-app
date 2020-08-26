@@ -1,0 +1,33 @@
+.product{
+      display: flex;
+      border-bottom: 1px solid rgb(190, 223, 255);
+      margin-bottom: 5px;
+      margin-right: 2%;
+      margin-left: 20%;
+      
+      margin-top: 20px;
+      
+}
+
+.product-name{
+      color: rgb(69, 23, 233);
+      font-weight: 400;
+}
+
+.cart-button{
+      background-color:#f0c14b;
+      width: 200px;
+      height: 26px;
+      border-width: 1px;
+      border-radius: 3px;
+      border-style: solid;
+      cursor: pointer;
+      vertical-align: middle;
+}
+
+.image-style{
+      margin-right: 5%;
+}
+.name-style{
+      margin-bottom: 1%;
+}
